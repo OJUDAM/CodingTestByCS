@@ -1,0 +1,7 @@
+C:\Users\dhwnk\Desktop\CodingTestByCS\CodingTest\CodingTest\bin\Debug\CodingTest.exe.config
+C:\Users\dhwnk\Desktop\CodingTestByCS\CodingTest\CodingTest\bin\Debug\CodingTest.exe
+C:\Users\dhwnk\Desktop\CodingTestByCS\CodingTest\CodingTest\bin\Debug\CodingTest.pdb
+C:\Users\dhwnk\Desktop\CodingTestByCS\CodingTest\CodingTest\obj\Debug\CodingTest.csprojAssemblyReference.cache
+C:\Users\dhwnk\Desktop\CodingTestByCS\CodingTest\CodingTest\obj\Debug\CodingTest.csproj.CoreCompileInputs.cache
+C:\Users\dhwnk\Desktop\CodingTestByCS\CodingTest\CodingTest\obj\Debug\CodingTest.exe
+C:\Users\dhwnk\Desktop\CodingTestByCS\CodingTest\CodingTest\obj\Debug\CodingTest.pdb
