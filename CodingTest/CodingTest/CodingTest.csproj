@@ -48,7 +48,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CodingTest.DFSBFS.Program</StartupObject>
+    <StartupObject>CodingTest.Sum.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -64,6 +64,8 @@
     <Compile Include="DFSBFS\Program.cs" />
     <Compile Include="Plus\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Star\Program.cs" />
+    <Compile Include="Sum\Program.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
