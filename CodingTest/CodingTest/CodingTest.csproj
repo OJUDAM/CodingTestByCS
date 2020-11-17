@@ -48,7 +48,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CodingTest.OX.Program</StartupObject>
+    <StartupObject>CodingTest.CountOfWord.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -61,6 +61,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CountOfWord\Program.cs" />
     <Compile Include="DFSBFS\Program.cs" />
     <Compile Include="NumberCounting\Program.cs" />
     <Compile Include="OX\Program.cs" />
