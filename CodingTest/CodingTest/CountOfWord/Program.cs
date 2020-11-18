@@ -13,7 +13,6 @@ namespace CodingTest.CountOfWord
                 Console.ReadLine();
                 return 0;
             }
-            Console.WriteLine(str);
             string[] words = str.Trim().Split();
 
             Console.WriteLine(words.Length);
